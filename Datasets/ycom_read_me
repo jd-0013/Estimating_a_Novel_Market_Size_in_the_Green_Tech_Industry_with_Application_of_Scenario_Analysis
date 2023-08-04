@@ -7,3 +7,5 @@ Thus, 3 files were uploaded.
 2. The file's first 300,000 rows
 
 3. The file's rows after row number 300,000
+
+However, the code does not highlight this as my computational power could consider the whole file at once, meaning there was no need to split the file to use it in the analysis.
